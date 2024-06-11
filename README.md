@@ -37,7 +37,7 @@ Booksify is an online book store where you can buy your favorite books. It is bu
 ### Clone the repo to your machine
 
 ```
-git clone https://github.com/niteshseram/Booksify.git
+git clone https://github.com/parnikamathur/Booksify.git
 cd Booksify
 ```
 
